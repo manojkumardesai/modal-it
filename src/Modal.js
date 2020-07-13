@@ -12,7 +12,6 @@ const Modal = ({ children }) => {
     useEffect(() => {
         const modalRoot = document.getElementById('modal');
         modalRoot.appendChild(elRef.current);
-        focusTrap();
         return () => modalRoot.removeChild(elRef.current);
     }, [])
 
