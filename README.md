@@ -1,6 +1,6 @@
-# The Modal
+# Modal-It
 
-The Modal is a plug and play react component, that can take any HTML elements and display it in a modal
+Modal-It is a plug and play react component, that can take any HTML elements and display it in a modal
 
 ## Installation
 
